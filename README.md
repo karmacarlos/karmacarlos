@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @karmacarlos
-- 👀 I’m interested in Frontend aplications.
+- 👋 Hi, I’m Carlos Gomez
+- 👀 I’m interested in the frontend of applications.
 - 🌱 I’m currently a student at Turing school!
 - 📫 How to reach me: carlos.gomezdw@gmail.com
 
